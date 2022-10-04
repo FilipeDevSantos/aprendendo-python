@@ -1,0 +1,1 @@
+# Entendendo o funcionamento básico de comandos no python
