@@ -1,5 +1,5 @@
-from utilidadesCeV import moeda
+from utilidadesCeV import dado, moeda
 
 
-preco = int(input('Digite o preço: R$'))
+preco = dado.leiaDinheiro('Digite o preço: R$')
 moeda.resumo(preco, 80, 35)
