@@ -1,4 +1,4 @@
-import moeda
+from utilidadesCeV import moeda
 
 
 preco = int(input('Digite o preço: R$'))
