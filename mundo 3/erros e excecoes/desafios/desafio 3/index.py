@@ -1,0 +1,4 @@
+import sistema
+
+
+sistema.start()
